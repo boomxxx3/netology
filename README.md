@@ -21,7 +21,3 @@ NeuroStartUp — динамически развивающийся старта�
   color: red;
 }
 ```
-
-
-
-![](https://i.imgur.com/SYeCQJn.png)
